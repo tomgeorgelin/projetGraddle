@@ -1,2 +1,5 @@
 rootProject.name = 'projetGridle'
+include 'Model'
+include 'View'
+include 'Controller'
 
